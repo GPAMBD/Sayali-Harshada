@@ -108,6 +108,8 @@ After the completion of the project one can clearly say that our
 developed application will help a lot in this pandemic situation. This project is
 user friendly and easy to handle.
 
+## Thank you..
+
 
 
 
